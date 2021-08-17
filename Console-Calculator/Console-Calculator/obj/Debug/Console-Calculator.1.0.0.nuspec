@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Console-Calculator</id>
+    <version>1.0.0</version>
+    <authors>Console-Calculator</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Debug/netcoreapp3.1/Console-Calculator.runtimeconfig.json" target="lib/netcoreapp3.1/Console-Calculator.runtimeconfig.json" />
+    <file src="/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Debug/netcoreapp3.1/Console-Calculator.dll" target="lib/netcoreapp3.1/Console-Calculator.dll" />
+  </files>
+</package>

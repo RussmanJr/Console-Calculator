@@ -1,0 +1,4 @@
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Release/netcoreapp3.1/publish/Console-Calculator.dll
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Release/netcoreapp3.1/publish/Console-Calculator.deps.json
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Release/netcoreapp3.1/publish/Console-Calculator.runtimeconfig.json
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Release/netcoreapp3.1/publish/Console-Calculator.pdb

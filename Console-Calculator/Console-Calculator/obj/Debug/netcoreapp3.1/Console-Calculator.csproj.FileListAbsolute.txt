@@ -1,0 +1,12 @@
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Debug/netcoreapp3.1/Console-Calculator.deps.json
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Debug/netcoreapp3.1/Console-Calculator.runtimeconfig.json
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Debug/netcoreapp3.1/Console-Calculator.runtimeconfig.dev.json
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Debug/netcoreapp3.1/Console-Calculator.dll
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/bin/Debug/netcoreapp3.1/Console-Calculator.pdb
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/obj/Debug/netcoreapp3.1/Console-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/obj/Debug/netcoreapp3.1/Console-Calculator.AssemblyInfoInputs.cache
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/obj/Debug/netcoreapp3.1/Console-Calculator.AssemblyInfo.cs
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/obj/Debug/netcoreapp3.1/Console-Calculator.csproj.CoreCompileInputs.cache
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/obj/Debug/netcoreapp3.1/Console-Calculator.dll
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/obj/Debug/netcoreapp3.1/Console-Calculator.pdb
+/Users/rsacobie/Projects/Console-Calculator/Console-Calculator/obj/Debug/netcoreapp3.1/Console-Calculator.genruntimeconfig.cache

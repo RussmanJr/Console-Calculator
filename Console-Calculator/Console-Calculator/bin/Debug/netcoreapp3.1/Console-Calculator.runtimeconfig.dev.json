@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rsacobie/.dotnet/store/|arch|/|tfm|",
+      "/Users/rsacobie/.nuget/packages"
+    ]
+  }
+}
